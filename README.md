@@ -34,7 +34,8 @@ Tools Used: Power BI,Excel
 
 <img width="1341" height="745" alt="HR Analytics DashBoard" src="https://github.com/user-attachments/assets/ceda5f84-2697-4cc4-a29b-74bbf6f55959" />
 
-
+Author : Prasankumar Bongale 
+Link: https://github.com/prasankumar/
 
 
 
